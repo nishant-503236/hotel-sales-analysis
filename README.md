@@ -12,7 +12,6 @@ This project focuses on analyzing hotel sales data using Python. It includes dat
 ## 🔧 Technologies Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
